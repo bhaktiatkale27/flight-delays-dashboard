@@ -220,6 +220,7 @@ streamlit run app.py
 ```
 The app opens at `http://localhost:8501`.
 
+
 **Notebook**
 ```bash
 jupyter notebook Flight_Delays_EDA_Project.ipynb
@@ -227,6 +228,10 @@ jupyter notebook Flight_Delays_EDA_Project.ipynb
 Update the CSV path in the first code cell if your file is in a different folder.
 
 ---
+
+
+🚀 **Live Demo:** https://flight-delays-dashboard-sjymgfew7sjojonqj9n2ax.streamlit.app/
+
 
 ## 🌐 Deploying Online (optional)
 
